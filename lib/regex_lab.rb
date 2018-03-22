@@ -27,4 +27,5 @@ def valid_phone_number?(phone)
     true
   else
     return false
+  end
 end
